@@ -1,0 +1,45 @@
+body 
+{margin: 0;
+	background-color: #ffffff;
+
+}
+/*.f {
+	font-size: 18px;
+	margin-right: 60px;
+	padding-left: 50%;
+}
+*/
+
+.g {padding-left: 20%;}
+a {
+	color: #345beb;
+	padding-left: 2%;
+font-family: tahoma;}
+
+.op {/*padding-top: 1%;*/
+		font-family: "Times New Roman", Georgia, Serif;
+		font-size: 150%;
+		padding-left: 23%
+	}
+.do {
+	height: 300px;
+	width: 100%;}
+/*	.po {padding-left: 20%;
+	}
+h2 {font-family: Tahoma;
+font-size: 80%;
+padding-left: 10%;}
+.opos {padding-left: 22%;
+}*/
+div {float:left;margin:0 80px;}
+h2 {font-family: Tahoma;
+font-size: 80%;
+/*padding-left: 10%;*/}
+
+.ddd {
+  display: table;
+  margin: 0 auto; /* для центрирования display: table; не нужно указывать ширину блока, она рассчитывается самостоятельно */ 
+  white-space: pre-line; /* не нужен <br> */ 
+  word-wrap: break-word; /* чтобы слова переносились на маленьком экране */ 
+
+}
